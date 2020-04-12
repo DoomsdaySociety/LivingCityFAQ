@@ -1,3 +1,5 @@
+[<- 返回](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/README.md)  
+
 ## 生存都市 中国版常见问题解决
 #### 我不玩中国版，所以常见问题的解决方法有亿点少
 #### 提示：可以按下 Ctrl+F 进行搜索
