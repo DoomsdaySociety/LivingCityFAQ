@@ -21,3 +21,9 @@
   
 -------------------------------
 有需要添加的内容记得联系我 ✓
+
+# 捐赠
+### 支持我就给我捐助吧，不捐助也是可以的
+![QQ支付](https://help.mrxiaom.top/img/qq.png)
+![微信支付](https://help.mrxiaom.top/img/wechat.png)
+![支付宝支付](https://help.mrxiaom.top/img/alipay.png)
