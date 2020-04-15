@@ -12,6 +12,8 @@
 
 同时也欢迎大家来[哔哩哔哩](https://space.bilibili.com/330771760)支持我
 
+-------------------------------
+
 ## 选择你游玩的版本并点击“常见问题解决”链接吧
 ### 国际版
 [官方网站](http://www.pds.ink) | [常见问题解决](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/JE.MD)  
@@ -33,7 +35,8 @@
 
 -------------------------------
 # 捐赠
-### 支持我就给我捐助吧，不捐助也是可以的
+### 支持我就给我捐助吧，不捐助也是没问题的
+#### 我不强制要求你捐赠。不管捐不捐赠，更新还是照常更新
 ![QQ支付](https://help.mrxiaom.top/img/qq.png)
 ![微信支付](https://help.mrxiaom.top/img/wechat.png)
 ![支付宝支付](https://help.mrxiaom.top/img/alipay.png)
