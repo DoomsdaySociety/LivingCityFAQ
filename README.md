@@ -35,8 +35,8 @@
 
 -------------------------------
 # 捐赠
-### 支持我就给我捐助吧，不捐助也是没问题的
-#### 我不强制要求你捐赠。不管捐不捐赠，更新还是照常更新
+** 支持我就给我捐助吧，不捐助也是没问题的 **
+** 我不强制要求你捐赠。不管捐不捐赠，更新还是照常更新 **
 ![QQ支付](https://help.mrxiaom.top/img/qq.png)
 ![微信支付](https://help.mrxiaom.top/img/wechat.png)
 ![支付宝支付](https://help.mrxiaom.top/img/alipay.png)
