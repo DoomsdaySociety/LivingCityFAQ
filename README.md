@@ -4,7 +4,7 @@
 或者点击[这里](https://github.com/MrXiaoM/LivingCityFAQ/issues/new/choose)来提交你的问题，记得要写详细点  
 额… 不知道加好友的答案吗? 那来加这几个群的其中一个找我吧，我都在群里  
 |  群名   | 群号  |
-|  ----  | ----  |
+|  ----  |  ----  |
 | 生存都市1群 国际版 | 241973735 |
 | ~~生存都市2群 国际版~~ 冷鸟鸟粉丝群 | 536138292 |
 | 生存都市～萌星交流1群 | 252631851 |
@@ -41,3 +41,11 @@
 <img src="https://help.mrxiaom.top/img/qq.png" width = 30% />
 <img src="https://help.mrxiaom.top/img/wechat.png" width = 30% />
 <img src="https://help.mrxiaom.top/img/alipay.png" width = 30% />
+
+
+
+# 小技巧  
+主要都是国际服的，中国版可能适用，**只是可能**  
+| ID | TITLE |
+|  ----  |  ----  |
+| [001](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/docs/JavaEdition/001.md) | 大箱子商店制作教程 |  
