@@ -137,3 +137,7 @@ ping mc.66ko.cc
 解决方法: 只能怪你自己倒霉。吃一堑，长一智。以后自己留意点  
 <!> 线下交易被骗不能向管理组汇报，否则你也会被封号  
 同样的，相关条例在 [《生存都市玩家协议 2020》](http://www.pds.ink/forum.php?mod=viewthread&tid=839&fromuid=6) 的5.4 (7)和7.5那里有
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+你已经到达了世界的尽头  
+![到底啦](https://s1.hdslb.com/bfs/seed/bplus-common/dynamic-assets/end.png)
