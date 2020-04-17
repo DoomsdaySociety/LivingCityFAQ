@@ -38,17 +38,28 @@
 **有需要添加的内容记得联系我 ✓**
 
 -------------------------------
+
+# 小技巧  
+主要都是国际服的，中国版可能适用，**只是可能**  
+JE为国际服，NE为中国版
+| TYPE | ID | TITLE |
+| ---- | ----  |  ----  |
+| JE | [J001](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/docs/JavaEdition/001.md) | 大箱子商店制作教程 |  
+| JE | [P20](http://www.pds.ink/forum.php?mod=viewthread&tid=20&fromuid=6) | 生存服命令大全 |  
+| NE | [N001](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/docs/NeteaseEdition/001.md) | 如何防止神器交易被骗 |  
+| NE | [C665108](http://mc.netease.com/thread-665108-1-1.html) | 【小猫出品】生存服指令大全 |  
+  
+  
+如果你有可添加的小技巧，可以来找我申请添加
+
+-------------------------------
+
 # 捐赠
 **支持我就给我捐助吧，不捐助也是没问题的**  
 **我不强制要求你捐赠。不管捐不捐赠，更新还是照常更新**  
 <img src="https://help.mrxiaom.top/img/qq.png" width = 30% />
 <img src="https://help.mrxiaom.top/img/wechat.png" width = 30% />
-<img src="https://help.mrxiaom.top/img/alipay.png" width = 30% />
-
-
-
-# 小技巧  
-主要都是国际服的，中国版可能适用，**只是可能**  
-| ID | TITLE |
-|  ----  |  ----  |
-| [001](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/docs/JavaEdition/001.md) | 大箱子商店制作教程 |  
+<img src="https://help.mrxiaom.top/img/alipay.png" width = 30% />  
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+你已经到达了世界的尽头  
+![到底啦](https://s1.hdslb.com/bfs/seed/bplus-common/dynamic-assets/end.png)
