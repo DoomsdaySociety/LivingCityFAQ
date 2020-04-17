@@ -18,20 +18,22 @@
 ## 选择你游玩的版本并点击“常见问题解决”链接吧
 ### 国际版  
 **如果你是首次玩或者没玩过国际版Minecraft，点击[这里](http://www.pds.ink/forum.php?mod=viewthread&tid=1748&fromuid=6)可获得帮助**  
-[官方网站](http://www.pds.ink) | [常见问题解决](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/JE.MD)  
-最初于2016年8月16日开服  
-在某一时间因一些不可抗力  
-的原因而被迫换周目  
-当然，跟通常的服务器一样  
-名字只能用字母、数字、下划线组合  
+>[官方网站](http://www.pds.ink) | [常见问题解决](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/JE.MD)  
+>最初于2016年8月16日开服  
+>在某一时间因一些不可抗力  
+>的原因而被迫换周目  
+>当然，跟通常的服务器一样  
+>名字只能用字母、数字、下划线组合  
 
 ### 中国版
-[论坛](http://mc.netease.com/forum-96-1.html) | [常见问题解决](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/NE.MD)  
-于2020年2月15日开服  
-~~人均祖安/小学生，网 易 特 色~~  
-之前好像服务器差点就因为  
-人数过多而超负荷了来着  
-跟通常的网易mc服一样，玩家中文名  
+
+>[论坛](http://mc.netease.com/forum-96-1.html) | [常见问题解决](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/NE.MD)  
+>于2020年2月15日开服  
+>~~人均祖安/小学生，网 易 特 色~~  
+>之前好像服务器差点就因为  
+>人数过多而超负荷了来着  
+>跟通常的网易mc服一样，玩家中文名  
+
 
 **有需要添加的内容记得联系我 ✓**
 
