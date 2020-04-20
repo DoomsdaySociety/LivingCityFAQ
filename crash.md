@@ -285,6 +285,9 @@ java.lang.OutOfMemoryError 怎么办
 | java.lang.NoSuchMethodError | - | - | 方法不存在，一般都是Mod的自身缺陷，或者mc自身的缺陷导致。看看出错的方法位置就知道是谁的锅了，看不懂可以找大佬帮忙看 |
 | java.lang.NoClassDefFoundError | - | - | 同上，只不过是类不存在 |
 | java.lang.NullPointerException | - | - | 同上，只不过是空指针错误 |
+| java.lang.IndexOutOfBoundsException | - | - | 同上，只不过是索引超出界限 |
+| java.io.FileNotFoundException | - | - | 文件不存在，可能是Mod的资源文件丢失 |
+解决个闪退还得当侦探，是不是觉得贼tm烦
 ***
 ## 杂项
 在这一段下面的都是一堆乱七八糟的东西，看不懂别看  
