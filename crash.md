@@ -286,7 +286,8 @@ java.lang.OutOfMemoryError 怎么办
 | java.lang.NoClassDefFoundError | - | - | 同上，只不过是类不存在 |
 | java.lang.NullPointerException | - | - | 同上，只不过是空指针错误 |
 | java.lang.IndexOutOfBoundsException | - | - | 同上，只不过是索引超出界限 |
-| java.io.FileNotFoundException | - | - | 文件不存在，可能是Mod的资源文件丢失 |
+| java.io.FileNotFoundException | - | - | 文件不存在，可能是Mod的资源文件丢失 |  
+  
 解决个闪退还得当侦探，是不是觉得贼tm烦
 ***
 ## 杂项
