@@ -3,7 +3,7 @@
 
 如果你是学过Java的，我想你应该能一眼看得出来出现了什么问题并能找到解决方法  
 可并不是人人都是程序员，所以才有这篇文章  
-首先你需要知道崩溃日志的格式，本章节对新人不是很友好，请慎重阅读  
+首先你需要知道崩溃日志的格式，**本章节对新人不是很友好，请慎重阅读**  
 下面是一份完整的崩溃日志
 ```
 ---- Minecraft Crash Report ----
@@ -201,7 +201,7 @@ VBOs are available because OpenGL 1.5 is supported.
 	OpenGlVendor: NVIDIA Corporation
 	CpuCount: 4
 ```
-如果你打开的崩溃日志格式不是这样的，请用 Notepad2 等文本编辑器打开，别nm用记事本  
+如果你打开的崩溃日志格式不是这样的，请用 Notepad2 等文本编辑器打开，**只要不用记事本什么都好说!!!**  
 我们从头开始解析崩溃日志的结构  
 ***
 ## 开头
@@ -223,7 +223,30 @@ Contact their authors BEFORE contacting forge
 ```
 文中的...是我省略了其他的mod，例子可以看上面完整的崩溃日志  
 如果有出现最后一句 Do not report 之类的  
-你可以试试删除它提到的mod，或者删除你所有的 FML Mod
+你可以试试删除它提到的mod，或者删除你所有的 FML Mod  
+举个例子，就拿上面崩溃日志的来说
+```
+WARNING: coremods are present:
+  CCLCorePlugin (CodeChickenLib-1.8-1.1.2.115-universal.jar)
+  Main ([H一键快速兑换]AnonymTrade-2.4.0-mc1.8.9.jar)
+  ShoulderPlugin ([越肩视角]ShoulderSurfing-1.8.8_1.8.9-1.1.jar)
+  ForgePlugin ([皮肤显示]CustomSkinLoader_Forge-14.7.jar)
+  Do not report to Forge! Remove FoamFixAPI (or replace with FoamFixAPI-Lawful) and try again. ([优化]foamfix-0.6.3-anarchy-1.8.x.jar)
+Contact their authors BEFORE contacting forge
+```
+这里提到了有以下FML Mod
+| Mod Id | Mod 文件名 |
+| ---- | ---- |
+| CCLCorePlugin | CodeChickenLib-1.8-1.1.2.115-universal.jar |
+| Main | [H一键快速兑换]AnonymTrade-2.4.0-mc1.8.9.jar |
+| ShoulderPlugin | [越肩视角]ShoulderSurfing-1.8.8_1.8.9-1.1.jar |
+| ForgePlugin | [皮肤显示]CustomSkinLoader_Forge-14.7.jar |
+| FoamFixAPI | [优化]foamfix-0.6.3-anarchy-1.8.x.jar |
+
+并且它建议你删掉 ModId 是 FoamFixAPI 的那个 Mod，  
+或者把这个 Mod 换成 Mod Id 是 FoamFixAPI-Lawful 的 Mod 再试  
+而那个 Mod 的文件名是 [优化]foamfix-0.6.3-anarchy-1.8.x.jar
+
 ***
 ## 貌似无意义的注释、时间和描述
 ```
@@ -266,10 +289,10 @@ java.lang.OutOfMemoryError: unable to create new native thread
 	at customskinloader.fake.FakeSkinManager.loadProfileTextures(FakeSkinManager.java:58)
   ... 太多了，以下省略
 ```
-此时，发生异常的类名就是 java.lang.OutOfMemoryError，异常描述就是unable to create new native thread  
-异常描述是人能看得懂的语言，可以直接用百度翻译来翻译出来  
+此时，**发生异常的类名**就是 java.lang.OutOfMemoryError，**异常描述**就是unable to create new native thread  
+**异常描述**是人能看得懂的语言，**可以直接用百度翻译来翻译出来**  
 这里大致翻译出来的结果就是：无法创建新的本机进程  
-最好还是先看发生异常的类名，你通常可以在百度查得到  
+最好还是先看**发生异常的类名**，你通常可以在百度查得到，搜索关键词  
 ```
 发生异常的类名 怎么办
 ```
@@ -277,16 +300,16 @@ java.lang.OutOfMemoryError: unable to create new native thread
 ```
 java.lang.OutOfMemoryError 怎么办
 ```
-这里会列举出一些常见的问题和解决方法 (-即为空)
+这里会列举出一些常见的问题和解决方法 (?即为是什么都无所谓，可忽略的选项)
 | 异常的类名 | 异常描述 | 出错位置包括的内容 | 解决方法 |
 | ---- | ---- | ---- | ---- |
-| java.lang.OutOfMemoryError | - | - | 运行内存过小，到启动器调大点 |
-| org.lwjgl.LWJGLException | Pixel format not accelerated | - | 显卡驱动版本过低或未开启硬件加速，尝试升级显卡驱动或开启硬件加速。如果不行，只能换电脑或者将系统降级 |
-| java.lang.NoSuchMethodError | - | - | 方法不存在，一般都是Mod的自身缺陷，或者mc自身的缺陷导致。看看出错的方法位置就知道是谁的锅了，看不懂可以找大佬帮忙看 |
-| java.lang.NoClassDefFoundError | - | - | 同上，只不过是类不存在 |
-| java.lang.NullPointerException | - | - | 同上，只不过是空指针错误 |
-| java.lang.IndexOutOfBoundsException | - | - | 同上，只不过是索引超出界限 |
-| java.io.FileNotFoundException | - | - | 文件不存在，可能是Mod的资源文件丢失 |  
+| java.lang.OutOfMemoryError | ? | ? | 运行内存过小，到启动器调大点 |
+| org.lwjgl.LWJGLException | Pixel format not accelerated | ? | 显卡驱动版本过低或未开启硬件加速，尝试升级显卡驱动或开启硬件加速。如果不行，只能换电脑或者将系统降级 |
+| java.lang.NoSuchMethodError | ? | ? | 方法不存在，一般都是Mod的自身缺陷，或者mc自身的缺陷导致。看看出错的方法位置就知道是谁的锅了，看不懂可以找大佬帮忙看 |
+| java.lang.NoClassDefFoundError | ? | ? | 同上，只不过是类不存在 |
+| java.lang.NullPointerException | ? | ? | 同上，只不过是空指针错误 |
+| java.lang.IndexOutOfBoundsException | ? | ? | 同上，只不过是索引超出界限 |
+| java.io.FileNotFoundException | ? | ? | 文件不存在，可能是Mod的资源文件丢失 |  
   
 解决个闪退还得当侦探，是不是觉得贼tm烦
 ***
