@@ -1,4 +1,4 @@
-[<- 返回](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/JE.MD)  
+[<- 返回](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/JE.MD#1-游戏崩溃)  
 # 崩溃日志解读  
 
 如果你是学过Java的，我想你应该能一眼看得出来出现了什么问题并能找到解决方法  
