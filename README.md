@@ -70,9 +70,15 @@ JE为国际服，NE为中国版
 # 捐赠
 **支持我就给我捐助吧，不捐助也是没问题的**  
 **我不强制要求你捐赠。不管捐不捐赠，更新还是照常更新**  
-<img src="https://help.mrxiaom.top/img/qq.png" width = 30% />
-<img src="https://help.mrxiaom.top/img/wechat.png" width = 30% />
-<img src="https://help.mrxiaom.top/img/alipay.png" width = 30% />  
+<img src="https://s1.ax1x.com/2020/05/22/YOWDEt.png" width = 30% />
+<img src="https://s1.ax1x.com/2020/05/22/YOWrUP.png" width = 30% />
+<img src="https://s1.ax1x.com/2020/05/22/YOWs4f.png" width = 30% />  
+看不到图片？  
+[QQ](https://s1.ax1x.com/2020/05/22/YOWDEt.png)
+ | 
+[微信](https://s1.ax1x.com/2020/05/22/YOWrUP.png)
+ | 
+[支付宝](https://s1.ax1x.com/2020/05/22/YOWs4f.png)
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 你已经到达了世界的尽头  
 ![到底啦](https://s1.hdslb.com/bfs/seed/bplus-common/dynamic-assets/end.png)
