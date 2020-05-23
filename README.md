@@ -78,7 +78,12 @@ JE为国际服，NE为中国版
  | 
 [微信](https://s1.ax1x.com/2020/05/22/YOWrUP.png)
  | 
-[支付宝](https://s1.ax1x.com/2020/05/22/YOWs4f.png)
+[支付宝](https://s1.ax1x.com/2020/05/22/YOWs4f.png)  
+感谢以下人员的捐赠
+| # | 称呼 | 数额 |
+| --- | --- | --- |
+| ×寻 | 微凉 | ￥50 |
+
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 你已经到达了世界的尽头  
 ![到底啦](https://s1.hdslb.com/bfs/seed/bplus-common/dynamic-assets/end.png)
