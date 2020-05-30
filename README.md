@@ -11,7 +11,9 @@
 | 生存都市～萌星交流2群 | 1058673993 |
 | 「Mr社」生存都市资源分享群 | 951534513 |
 
-同时也欢迎大家来[哔哩哔哩](https://space.bilibili.com/330771760)支持我
+同时也欢迎大家来[哔哩哔哩](https://space.bilibili.com/330771760)支持我  
+  
+一时无聊，如果想看国际版都市①群公告可以[点这](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/notice.md)
 
 -------------------------------
 
