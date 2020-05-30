@@ -60,7 +60,7 @@ JE为国际服，NE为中国版
 # 无偿捐赠
 **支持我就给我捐助吧，不捐助也是没问题的**  
 **我不强制要求你捐赠。不管捐不捐赠，更新还是照常更新**  
-**但是一经捐赠就不会还给你了，资金会用于机器人的维护之类的**
+**但是一经捐赠就不会还给你了，资金会用于机器人的维护之类的**  
 <img src="https://mrxiaom.github.io/qq.png" width = 30% />
 <img src="https://mrxiaom.github.io/wechat.png" width = 30% />
 <img src="https://mrxiaom.github.io/alipay.png" width = 30% />  
