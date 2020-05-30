@@ -1,4 +1,4 @@
-# LivingCityFAQ
+# LivingCity Frequently-Asked-Questions
 生存都市**非官方**常见问题解答 | 不定期更新  
 如果这个网站无法解决你的问题，你可以加我的QQ 2431208142  
 或者点击[这里](https://github.com/MrXiaoM/LivingCityFAQ/issues/new/choose)来提交你的问题，记得要写详细点  
