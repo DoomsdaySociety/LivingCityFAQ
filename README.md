@@ -60,15 +60,15 @@ JE为国际服，NE为中国版
 # 捐赠
 **支持我就给我捐助吧，不捐助也是没问题的**  
 **我不强制要求你捐赠。不管捐不捐赠，更新还是照常更新**  
-<img src="https://s1.ax1x.com/2020/05/22/YOWDEt.png" width = 30% />
-<img src="https://s1.ax1x.com/2020/05/22/YOWrUP.png" width = 30% />
-<img src="https://s1.ax1x.com/2020/05/22/YOWs4f.png" width = 30% />  
+<img src="https://mrxiaom.github.io/qq.png" width = 30% />
+<img src="https://mrxiaom.github.io/alipay.png" width = 30% />
+<img src="https://mrxiaom.github.io/wechat.png" width = 30% />  
 看不到图片？  
-[QQ](https://s1.ax1x.com/2020/05/22/YOWDEt.png)
+[QQ](https://mrxiaom.github.io/qq.png)
  | 
-[微信](https://s1.ax1x.com/2020/05/22/YOWrUP.png)
+[微信](https://mrxiaom.github.io/wechat.png)
  | 
-[支付宝](https://s1.ax1x.com/2020/05/22/YOWs4f.png)  
+[支付宝](https://mrxiaom.github.io/alipay.png)  
 感谢以下人员的捐赠
 | # | 称呼 | 数额 |
 | --- | --- | --- |
