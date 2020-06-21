@@ -1,3 +1,5 @@
+>**you suck, guy.**
+
 # LivingCity Frequently-Asked-Questions
 生存都市**非官方**常见问题解答 | 不定期更新  
 如果这个网站无法解决你的问题，你可以加我的QQ 2431208142  
