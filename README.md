@@ -47,8 +47,9 @@ JE为国际服，NE为中国版
 | TYPE | ID | TITLE |
 | ---- | ----  |  ----  |
 | JE | [J001](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/docs/JavaEdition/001.md) | 大箱子商店制作教程 |  
-| JE | [P20](http://www.pds.ink/forum.php?mod=viewthread&tid=20&fromuid=6) | 生存服命令大全 |  
-| JE | [P63](http://www.pds.ink/forum.php?mod=viewthread&tid=63&fromuid=6) | 村民商店制作教程 |  
+| JE | [P2087](http://www.pds.ink/forum.php?mod=viewthread&tid=2087&fromuid=49398) | 村民商店制作教程 |  
+| JE | [P2088](http://www.pds.ink/forum.php?mod=viewthread&tid=2088&fromuid=49398) | 生存服命令大全 |  
+| JE | [P2089](http://www.pds.ink/forum.php?mod=viewthread&tid=2089&fromuid=49398) | 圈地教程 |  
 | NE | [N001](https://github.com/MrXiaoM/LivingCityFAQ/blob/master/docs/NeteaseEdition/001.md) | 如何防止神器交易被骗 |  
 | NE | [C665108](http://mc.netease.com/thread-665108-1-1.html) | 【小猫出品】生存服指令大全 |  
   
