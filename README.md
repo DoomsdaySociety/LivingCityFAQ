@@ -66,7 +66,7 @@ JE为国际服，NE为中国版
 <img src="https://mrxiaom.github.io/wechat.png" width = 30% />
 <img src="https://mrxiaom.github.io/alipay.png" width = 30% />  
 看不到图片？  
-[QQ相册备份付款码](https://user.qzone.qq.com/2431208142/photo/V53lxbjZ1dhx9T4FLTD23bH3hQ3DxCIn/)
+[QQ相册备份付款码](https://user.qzone.qq.com/2431208142/photo/V53lxbjZ1dhx9T4FLTD23bH3hQ3DxCIn/)    
 感谢以下人员的捐赠
 | # | 称呼 | 数额 |
 | --- | --- | --- |
