@@ -1,5 +1,8 @@
 >**you suck, guy.**
 
+# @Deprecation
+> 因服务器关闭，该页面已经弃用，不要再来给我发送任何反馈
+
 # LivingCity Frequently-Asked-Questions
 
 ## 猫老师，发生甚么事了
