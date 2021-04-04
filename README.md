@@ -1,7 +1,7 @@
 >**you suck, guy.**
 
 # @Deprecation
-> 因服务器关闭，该页面已经弃用，不要再来给我发送任何反馈
+> 因服务器关闭，该页面已经弃用，不要再来给我发送任何反馈  
 > 就算服务器重开，我也不会再更新该页面了
 
 # LivingCity Frequently-Asked-Questions
